@@ -1,0 +1,42 @@
+{
+  "name": "pencil-skills",
+  "version": "1.0.0",
+  "description": "Pencil MCP design tool skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/pencil-skills",
+  "repository": "https://github.com/full-statck-skills/pencil-skills",
+  "source": "./",
+  "skills": [
+    "./skills/pencil-design-from-stitch-html",
+    "./skills/pencil-mcp-batch-design",
+    "./skills/pencil-mcp-batch-get",
+    "./skills/pencil-mcp-find-empty-space-on-canvas",
+    "./skills/pencil-mcp-get-editor-state",
+    "./skills/pencil-mcp-get-guidelines",
+    "./skills/pencil-mcp-get-screenshot",
+    "./skills/pencil-mcp-get-style-guide-tags",
+    "./skills/pencil-mcp-get-style-guide",
+    "./skills/pencil-mcp-get-variables",
+    "./skills/pencil-mcp-open-document",
+    "./skills/pencil-mcp-replace-all-matching-properties",
+    "./skills/pencil-mcp-search-all-unique-properties",
+    "./skills/pencil-mcp-set-variables",
+    "./skills/pencil-mcp-snapshot-layout",
+    "./skills/pencil-skill-creator",
+    "./skills/pencil-ui-design-spec-generator",
+    "./skills/pencil-ui-design-system-antd",
+    "./skills/pencil-ui-design-system-bootstrap",
+    "./skills/pencil-ui-design-system-echarts",
+    "./skills/pencil-ui-design-system-element",
+    "./skills/pencil-ui-design-system-layui",
+    "./skills/pencil-ui-design-system-ucharts",
+    "./skills/pencil-ui-design-system-uview",
+    "./skills/pencil-ui-design-system-uviewpro",
+    "./skills/pencil-ui-design-system-vant",
+    "./skills/pencil-ui-designer",
+    "./skills/pencil"
+  ]
+}
